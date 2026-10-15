@@ -1,2 +1,4 @@
-Nama:Nad
+Nama: Nad
 NIM: 71261283
+
+Fitur Peminjaman.
